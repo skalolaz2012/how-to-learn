@@ -60,7 +60,7 @@
 
 .header__link {
   text-decoration: none;
-  color: #2f80ed
+  color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -256,7 +256,6 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
-  width: 200px;
 }
 
 .table__heading_theme_dark {
