@@ -108,7 +108,6 @@
 }
 
 .two-columns__main-text {
-  align-items: space-between;
   width: 80%;
   min-width: 784px;
 }
