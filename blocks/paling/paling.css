@@ -1,0 +1,8 @@
+.paling {
+  opacity: 1;
+  transition: opacity 0.6s;
+}
+
+.paling:hover {
+  opacity: 0.6;  
+}
