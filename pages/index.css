@@ -1,5 +1,6 @@
 /*Чужой код*/
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
 
 /*Миксы*/
 @import url(../blocks/rotation/rotation.css);

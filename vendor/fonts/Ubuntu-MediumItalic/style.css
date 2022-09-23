@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: local('Ubuntu Medium Italic'), local('Ubuntu-Medium-Italic'),
+        url('Ubuntu-MediumItalic.woff2') format('woff2'),
+        url('Ubuntu-MediumItalic.woff') format('woff'),
+        url('Ubuntu-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+  }

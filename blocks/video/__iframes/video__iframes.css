@@ -3,5 +3,7 @@
   top: 50px;
   font-size: 0;
   display: flex;
+  flex-basis: 1050px;
+  flex-wrap: wrap;
   gap: 20px;
 }
